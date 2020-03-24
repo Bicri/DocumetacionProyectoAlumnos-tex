@@ -1,0 +1,36 @@
+
+
+
+\documentclass[letterpaper,11pt]{report}
+
+\usepackage[spanish]{babel} %Lenguaje: Espanol
+\usepackage[utf8]{inputenc} %Caracteres: UTF8
+\usepackage{graphicx} %Manejo de imágenes
+
+\begin{document}
+	\renewcommand{\tablename}{Tabla} %Escribe Tabla en lugar de Cuadro
+	\renewcommand{\listtablename}{Índice de tablas} %Escribe Indeice de tablas en lugar de Indice de cuadros
+	
+	\input{portada}
+	
+	
+	    %%%%%%%   INCLUIR ENCABEZADOS EN ÍNDICES Y CAPITULOS   %%%%%%%
+	\pagestyle{headings}
+	
+	%%%%%%%   NUMERACIÓN EN CONTENIDO E ÍNDICE DE TABLAS Y FIGURAS   %%%%%%%
+	\pagenumbering{roman} %Números romanos
+	%\setcounter{page}{1} %Comienza en I por default, aquí se puedo modificar
+	
+	%%%%%%   INCLUIR CONTENIDO, ÍNDICE DE FIGURAS Y DE TABLAS   %%%%%%
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	
+	%%%%%%%   NUMERACIÓN EN CAPÍTULOS   %%%%%%%
+	\clearpage %Para iniciar con los arábigos
+	\pagenumbering{arabic} %Numeros arábigos
+	%\setcounter{page}{1} %Comienza en 1 por default, aquí se puede modificar
+	\input{introduccion}
+	\input{./arquitectura/vescenarios}
+	\input{./requerimientos/Requerimentos}
+\end{document}

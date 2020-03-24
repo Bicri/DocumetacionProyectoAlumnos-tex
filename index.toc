@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Introducción}{1}%
+\contentsline {section}{\numberline {1.1}Descripción General del Proyecto}{1}%
+\contentsline {section}{\numberline {1.2}Propósito}{1}%
+\contentsline {section}{\numberline {1.3}Alcance del documento}{1}%
+\contentsline {section}{\numberline {1.4}Contenido}{1}%
+\contentsline {chapter}{\numberline {2}Vista de Escenarios}{2}%
+\contentsline {section}{\numberline {2.1}Entregables}{2}%
+\contentsline {section}{\numberline {2.2}Diagrama de casos de uso}{2}%
+\contentsline {chapter}{\numberline {3}Requerimientos}{3}%
+\contentsline {section}{\numberline {3.1}Requerimientos funcionales}{3}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.11)  24 MAR 2020 18:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.11)  24 MAR 2020 20:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -83,10 +83,7 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count179
 \l__pdf_internal_box=\box45
 )
-(./index.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
-)
+(./index.aux)
 \openout1 = `index.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -316,21 +313,90 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--91
 
  []
 
+)) (./HistoriasUsuario/historiasdeusuario.tex
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+ [8]
+Cap\'{\i }tulo 4.
+(./HistoriasUsuario/HU1.tex
+<./HistoriasUsuario/imagenes/IHU1.png, id=54, 305.64188pt x 282.30469pt>
+File: ./HistoriasUsuario/imagenes/IHU1.png Graphic file (type png)
+<use ./HistoriasUsuario/imagenes/IHU1.png>
+Package pdftex.def Info: ./HistoriasUsuario/imagenes/IHU1.png  used on input li
+ne 9.
+(pdftex.def)             Requested size: 152.82056pt x 141.152pt.
+) (./HistoriasUsuario/HU2.tex
+<./HistoriasUsuario/imagenes/IHU2.png, id=55, 303.38344pt x 274.77657pt>
+File: ./HistoriasUsuario/imagenes/IHU2.png Graphic file (type png)
+<use ./HistoriasUsuario/imagenes/IHU2.png>
+Package pdftex.def Info: ./HistoriasUsuario/imagenes/IHU2.png  used on input li
+ne 11.
+(pdftex.def)             Requested size: 151.69135pt x 137.38794pt.
+<./HistoriasUsuario/imagenes/IHU3.png, id=56, 302.63063pt x 274.77657pt>
+File: ./HistoriasUsuario/imagenes/IHU3.png Graphic file (type png)
+<use ./HistoriasUsuario/imagenes/IHU3.png>
+Package pdftex.def Info: ./HistoriasUsuario/imagenes/IHU3.png  used on input li
+ne 17.
+(pdftex.def)             Requested size: 151.31494pt x 137.38794pt.
+<./HistoriasUsuario/imagenes/IHU4.png, id=57, 347.79938pt x 134.75343pt>
+File: ./HistoriasUsuario/imagenes/IHU4.png Graphic file (type png)
+<use ./HistoriasUsuario/imagenes/IHU4.png>
+Package pdftex.def Info: ./HistoriasUsuario/imagenes/IHU4.png  used on input li
+ne 23.
+(pdftex.def)             Requested size: 173.89926pt x 67.37654pt.
+File: ./HistoriasUsuario/imagenes/IHU2.png Graphic file (type png)
+<use ./HistoriasUsuario/imagenes/IHU2.png>
+Package pdftex.def Info: ./HistoriasUsuario/imagenes/IHU2.png  used on input li
+ne 30.
+(pdftex.def)             Requested size: 151.69135pt x 137.38794pt.
+)
+(./HistoriasUsuario/HU3.tex [9
+
+ <./HistoriasUsuario/imagenes/IHU1.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+[10 <./HistoriasUsuario/imagenes/IHU2.png> <./HistoriasUsuario/imagenes/IHU3.pn
+g>]
+<./HistoriasUsuario/imagenes/IHU6.png, id=68, 623.32875pt x 322.95656pt>
+File: ./HistoriasUsuario/imagenes/IHU6.png Graphic file (type png)
+<use ./HistoriasUsuario/imagenes/IHU6.png>
+Package pdftex.def Info: ./HistoriasUsuario/imagenes/IHU6.png  used on input li
+ne 12.
+(pdftex.def)             Requested size: 311.6636pt x 161.47787pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./HistoriasUsuario/HU4.tex
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+ [11 <./HistoriasUsuario/imagenes/IHU4.png>]
+<./HistoriasUsuario/imagenes/IHU7.png, id=73, 327.47343pt x 295.1025pt>
+File: ./HistoriasUsuario/imagenes/IHU7.png Graphic file (type png)
+<use ./HistoriasUsuario/imagenes/IHU7.png>
+Package pdftex.def Info: ./HistoriasUsuario/imagenes/IHU7.png  used on input li
+ne 11.
+(pdftex.def)             Requested size: 163.73631pt x 147.55087pt.
 ))
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
- [8] (./index.aux
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+
+[12 <./HistoriasUsuario/imagenes/IHU6.png> <./HistoriasUsuario/imagenes/IHU7.pn
+g>] (./index.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 2270 strings out of 481248
- 32280 string characters out of 5922068
+ 2335 strings out of 481248
+ 34116 string characters out of 5922068
  279045 words of memory out of 5000000
- 17511 multiletter control sequences out of 15000+600000
+ 17553 multiletter control sequences out of 15000+600000
  539413 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,35p,629b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,35p,629b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/te
 xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/201
 9/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2019/texmf-
@@ -338,10 +404,10 @@ dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsl10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb>
-Output written on index.pdf (12 pages, 272203 bytes).
+Output written on index.pdf (16 pages, 433753 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 103 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

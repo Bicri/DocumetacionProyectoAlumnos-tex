@@ -13,3 +13,8 @@
 \contentsline {subsection}{\numberline {3.2.1}Restricciones de construcción}{4}%
 \contentsline {subsection}{\numberline {3.2.2}Propiedades}{6}%
 \contentsline {subsection}{\numberline {3.2.3}Identidad gráfica}{7}%
+\contentsline {chapter}{\numberline {4}Historias de usuario}{9}%
+\contentsline {section}{\numberline {4.1}HU1 Pantalla de inicio}{9}%
+\contentsline {section}{\numberline {4.2}HU2 Pantalla de registro de alumno}{10}%
+\contentsline {section}{\numberline {4.3}HU3 Pantalla de visualización}{11}%
+\contentsline {section}{\numberline {4.4}HU4 Pantalla de confirmación de eliminación}{12}%

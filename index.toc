@@ -9,3 +9,7 @@
 \contentsline {section}{\numberline {2.2}Diagrama de casos de uso}{2}%
 \contentsline {chapter}{\numberline {3}Requerimientos}{3}%
 \contentsline {section}{\numberline {3.1}Requerimientos funcionales}{3}%
+\contentsline {section}{\numberline {3.2}Requerimientos no funcionales}{4}%
+\contentsline {subsection}{\numberline {3.2.1}Restricciones de construcción}{4}%
+\contentsline {subsection}{\numberline {3.2.2}Propiedades}{6}%
+\contentsline {subsection}{\numberline {3.2.3}Identidad gráfica}{7}%
